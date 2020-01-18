@@ -3,7 +3,7 @@
 ゼミ卒論https://docs.google.com/document/d/1NWQJAQSmqOeuI7MpwGGbHMJxqg6zwUwLxdr8Q3jZ-O8/edit
 
 
-# 本文
+
 
 はじめに
 
