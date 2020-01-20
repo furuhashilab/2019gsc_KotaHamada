@@ -97,7 +97,7 @@ Componentの右上にあるプラスボタンを押しImage Pickerを追加す�
 
 Google Spread Sheetに全てのデータをいれ、Glideに反映させる。
 
- <img src="https://user-images.githubusercontent.com/30167629/72707561-0a32d400-3ba4-11ea-954e-1fe46ce3869a.PNG" width="250" > <img src="https://user-images.githubusercontent.com/30167629/72707623-34849180-3ba4-11ea-8f15-6c9b692cd9f0.PNG" width="250" ><img src="https://user-images.githubusercontent.com/30167629/72707667-4c5c1580-3ba4-11ea-8678-ee4d88c8a52e.PNG" width="250" >
+ <img src="https://user-images.githubusercontent.com/30167629/72707561-0a32d400-3ba4-11ea-954e-1fe46ce3869a.PNG" width="220" > <img src="https://user-images.githubusercontent.com/30167629/72707623-34849180-3ba4-11ea-8f15-6c9b692cd9f0.PNG" width="220" ><img src="https://user-images.githubusercontent.com/30167629/72707667-4c5c1580-3ba4-11ea-8678-ee4d88c8a52e.PNG" width="220" >
 
 　このように全ての建物が表示されるのが左上の画像である。Permanent linkで挿入した画像もアイコンとして表示されクロントイ・スラム周辺の建物概要を瞬時に見ることができる。またカテゴリーごとに分けたことによって真ん中上の写真でโรงพยาบาล （Hospital）のように病院だけのタブを作ることができ全体のリストから探すことなく病院を見つける際は病院タブへいきそこから探している病院を見つけることができる。Glideにはチャット機能もあり住民同士の安否確認もできるのである。何かお互い困ったことがあるがラインなどの連絡手段を持っていなかった場合Glideのチャットはオープンスペースなので誰でも発言でき連絡を取ることができるのである。
 
