@@ -109,7 +109,7 @@ Google Spread Sheetに全てのデータをいれ、Glideに反映させる。
 
 　Glideは誰でも編集することができるのでクロントイ・スラムの人々が載せたい情報を彼らの手で新たにパソコンではなくスマートフォンを使って入れることができる点である。現地に住んでいる彼らの方がもちろん土地に詳しいので便利な情報をさらに入れ、よりアプリの汎用性が高まる点は大きなメリットであると考える。さらにGlide上に情報を載せるとGoogle Spread Sheet上に勝手に反映される点も大きなメリットであると考える。全てをGoogle Spread Sheetで作るのは見えづらい部分もあり大変であるがGlideから行いそれがGoogle Spread Sheetに反映されるのはクロントイ・スラムの人々にとってもGlideのみ理解すればいいので機械に強くない人も利用しやすいのではないか。
 
-![IMG_5087](https://user-images.githubusercontent.com/30167629/72706940-980dbf80-3ba2-11ea-9fc8-43d50743f7a3.PNG)
+ <img src="https://user-images.githubusercontent.com/30167629/72708020-22efb980-3ba5-11ea-8129-8d24b2d6682c.PNG" width="250" >
 
 ・Glideを使ってみてわかったデメリット
 
