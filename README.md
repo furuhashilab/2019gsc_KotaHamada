@@ -90,6 +90,8 @@ Google map等の地図アプリは網羅性には優れているが地域特化�
 
 まずはじめにGoogle Spread Sheet上に建物名、カテゴリー、住所、写真、その建物のURLなどの必要な情報を記入しテイク。ここで重要になってくるのが写真である。Google Spread Sheet上に載せる際は写真をPermanent linkとしないといけない。しかしながら全ての写真をPermanent link化するのはかなり面倒な作業になってくるのでここでもGlideを使っていく。
 
+![IRQi4BOe0zhvFmmn3Prij_gfu1ijw1TcCwgqWpljmGWLZSAwBOpr0rpMvctf1sRcTT78FE5rAXEdmNlzPxkxLmZxy8xANIkbMknTLoA0wUkD75b-UswXNj1rx4tKADvdUdRdpf25](https://user-images.githubusercontent.com/30167629/72706414-53cdef80-3ba1-11ea-886a-b04a46be78f3.png)
+
 
 Componentの右上にあるプラスボタンを押しImage Pickerを追加する。そこに挿入したい写真をアップロードすることでGlideが勝手にその画像をPermanent link化してくれるため写真挿入の作業効率が飛躍的に向上する。
 
