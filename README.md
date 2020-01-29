@@ -118,6 +118,7 @@ Google Spread Sheetに全てのデータをいれ、Glideに反映させる。
 ## ・このアプリのプロモーション方法として紹介動画を作ってみた！！
 　
    このアプリを広げるプロモーションとして動画が一番分かりやすいのでいかにこのアプリが汎用性が高く使いやすいかということを紹介することにした。
+   
    https://www.youtube.com/watch?v=XTOW1joAIRY&feature=emb_title
    
 
