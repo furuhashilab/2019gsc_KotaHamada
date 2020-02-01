@@ -129,8 +129,7 @@ Google Spread Sheetに全てのデータをいれ、Glideに反映させる。
 
 
 # 作成アプリQR
-https://user-images.githubusercontent.com/30167629/73586026-4131af80-44eb-11ea-8761-2e2177d0f3eb.png
-
+![スクリーンショット 2020-02-01 12 03 13](https://user-images.githubusercontent.com/30167629/73586026-4131af80-44eb-11ea-8761-2e2177d0f3eb.png)
 
 
 # Reference
